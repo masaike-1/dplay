@@ -34,7 +34,7 @@ var vfed = {
 				autoplay: auto,
                 logo: '',
 				video: {
-                    
+                    pic: "https://ae01.alicdn.com/kf/H4f2d8fa00cb14f25a7aee9d6a5ff5e8b5.gif",
 					url: urls,
 					type: type,
 					customType: {
